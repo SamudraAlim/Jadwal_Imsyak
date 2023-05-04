@@ -1,4 +1,3 @@
-# JOKI-UTS
 ## INSTALASI
 - buat env : python -m venv env
 - masuk env : env/scripts/activate
